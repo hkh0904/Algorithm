@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\hkh09\\\uBC14\uD0D5 \uD654\uBA74\\Coding\\Algorithm\\C\u002B\u002B\\Baekjoon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0599D170-5FF3-4018-8B8D-651AFACEFDA9}|Baekjoon\\Baekjoon.vcxproj|C:\\Users\\hkh09\\\uBC14\uD0D5 \uD654\uBA74\\Coding\\Algorithm\\C\u002B\u002B\\Baekjoon\\Baekjoon\\1407_2\uB85C \uBA87\uBC88 \uB098\uB204\uC5B4\uC9C8\uAE4C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0599D170-5FF3-4018-8B8D-651AFACEFDA9}|Baekjoon\\Baekjoon.vcxproj|solutionrelative:Baekjoon\\1407_2\uB85C \uBA87\uBC88 \uB098\uB204\uC5B4\uC9C8\uAE4C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0599D170-5FF3-4018-8B8D-651AFACEFDA9}|Baekjoon\\Baekjoon.vcxproj|C:\\Users\\hkh09\\\uBC14\uD0D5 \uD654\uBA74\\Coding\\Algorithm\\C\u002B\u002B\\Baekjoon\\Baekjoon\\15736_\uC870\uBA85.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0599D170-5FF3-4018-8B8D-651AFACEFDA9}|Baekjoon\\Baekjoon.vcxproj|solutionrelative:Baekjoon\\15736_\uC870\uBA85.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0599D170-5FF3-4018-8B8D-651AFACEFDA9}|Baekjoon\\Baekjoon.vcxproj|C:\\Users\\hkh09\\\uBC14\uD0D5 \uD654\uBA74\\Coding\\Algorithm\\C\u002B\u002B\\Baekjoon\\Baekjoon\\2436_\uACF5\uC57D\uC218.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0599D170-5FF3-4018-8B8D-651AFACEFDA9}|Baekjoon\\Baekjoon.vcxproj|solutionrelative:Baekjoon\\2436_\uACF5\uC57D\uC218.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0599D170-5FF3-4018-8B8D-651AFACEFDA9}|Baekjoon\\Baekjoon.vcxproj|C:\\Users\\hkh09\\\uBC14\uD0D5 \uD654\uBA74\\Coding\\Algorithm\\C\u002B\u002B\\Baekjoon\\Baekjoon\\14232_\uBCF4\uC11D\uB3C4\uB451.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -29,46 +25,29 @@
               "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "1407_2\uB85C \uBA87\uBC88 \uB098\uB204\uC5B4\uC9C8\uAE4C.cpp",
-              "DocumentMoniker": "C:\\Users\\hkh09\\\uBC14\uD0D5 \uD654\uBA74\\Coding\\Algorithm\\C\u002B\u002B\\Baekjoon\\Baekjoon\\1407_2\uB85C \uBA87\uBC88 \uB098\uB204\uC5B4\uC9C8\uAE4C.cpp",
-              "RelativeDocumentMoniker": "Baekjoon\\1407_2\uB85C \uBA87\uBC88 \uB098\uB204\uC5B4\uC9C8\uAE4C.cpp",
-              "ToolTip": "C:\\Users\\hkh09\\\uBC14\uD0D5 \uD654\uBA74\\Coding\\Algorithm\\C\u002B\u002B\\Baekjoon\\Baekjoon\\1407_2\uB85C \uBA87\uBC88 \uB098\uB204\uC5B4\uC9C8\uAE4C.cpp",
-              "RelativeToolTip": "Baekjoon\\1407_2\uB85C \uBA87\uBC88 \uB098\uB204\uC5B4\uC9C8\uAE4C.cpp",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAYwCUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-21T12:36:11.287Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "14232_\uBCF4\uC11D\uB3C4\uB451.cpp",
               "DocumentMoniker": "C:\\Users\\hkh09\\\uBC14\uD0D5 \uD654\uBA74\\Coding\\Algorithm\\C\u002B\u002B\\Baekjoon\\Baekjoon\\14232_\uBCF4\uC11D\uB3C4\uB451.cpp",
               "RelativeDocumentMoniker": "Baekjoon\\14232_\uBCF4\uC11D\uB3C4\uB451.cpp",
               "ToolTip": "C:\\Users\\hkh09\\\uBC14\uD0D5 \uD654\uBA74\\Coding\\Algorithm\\C\u002B\u002B\\Baekjoon\\Baekjoon\\14232_\uBCF4\uC11D\uB3C4\uB451.cpp",
               "RelativeToolTip": "Baekjoon\\14232_\uBCF4\uC11D\uB3C4\uB451.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-20T11:47:12.388Z",
+              "WhenOpened": "2024-08-30T13:35:08.174Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "15736_\uC870\uBA85.cpp",
-              "DocumentMoniker": "C:\\Users\\hkh09\\\uBC14\uD0D5 \uD654\uBA74\\Coding\\Algorithm\\C\u002B\u002B\\Baekjoon\\Baekjoon\\15736_\uC870\uBA85.cpp",
-              "RelativeDocumentMoniker": "Baekjoon\\15736_\uC870\uBA85.cpp",
-              "ToolTip": "C:\\Users\\hkh09\\\uBC14\uD0D5 \uD654\uBA74\\Coding\\Algorithm\\C\u002B\u002B\\Baekjoon\\Baekjoon\\15736_\uC870\uBA85.cpp",
-              "RelativeToolTip": "Baekjoon\\15736_\uC870\uBA85.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "2436_\uACF5\uC57D\uC218.cpp",
+              "DocumentMoniker": "C:\\Users\\hkh09\\\uBC14\uD0D5 \uD654\uBA74\\Coding\\Algorithm\\C\u002B\u002B\\Baekjoon\\Baekjoon\\2436_\uACF5\uC57D\uC218.cpp",
+              "RelativeDocumentMoniker": "Baekjoon\\2436_\uACF5\uC57D\uC218.cpp",
+              "ToolTip": "C:\\Users\\hkh09\\\uBC14\uD0D5 \uD654\uBA74\\Coding\\Algorithm\\C\u002B\u002B\\Baekjoon\\Baekjoon\\2436_\uACF5\uC57D\uC218.cpp",
+              "RelativeToolTip": "Baekjoon\\2436_\uACF5\uC57D\uC218.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAiwCQAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-19T10:59:20.923Z",
+              "WhenOpened": "2024-08-30T11:42:19.653Z",
               "EditorCaption": ""
             }
           ]
